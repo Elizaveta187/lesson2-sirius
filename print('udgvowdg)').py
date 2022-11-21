@@ -1,1 +1,2 @@
-print('udgvowdg)')
+print('привет люди')
+#yayayayayaayaayay
